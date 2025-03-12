@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mason436
 - 👀 I’m interested in coding, art, vintage electronics and music!
-- 🌱 I’m currently learning Java and Python 
-- 📫 You can reach me on GitHub or Discord @MJ.4346 
+- 🌱 I’m currently learning Java, Python, JavaScript, Godot, and Racket!
 <!--- - 💞️ I’m looking to collaborate on --->
 
 <!---
